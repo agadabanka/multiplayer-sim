@@ -1,5 +1,5 @@
 # Multiplayer Simulator
-A sanbox to test the network latency, lag, jitter, etc between the server and multiple clients, that are part of the Client-Server architecture. git@github.com:agadabanka/SimpleFFA.git project demo's the usage of this simulator using a character that runs around in an open world.
+A sanbox to test the network latency, lag, jitter, etc between the server and multiple clients, that are part of the Client-Server architecture. 
 
 ## Installation
 Requires Mono or .NET 4.7 
